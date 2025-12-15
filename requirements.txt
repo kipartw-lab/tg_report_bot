@@ -1,7 +1,0 @@
-python-telegram-bot==20.3
-pytz
-APScheduler==3.6.3
-tzlocal
-
-
-
